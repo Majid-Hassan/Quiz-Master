@@ -56,7 +56,12 @@ Please read [CONTRIBUTING.md](https://github.com/Majid-Hassan) for details on ou
 Distributed under the MIT License. See `LICENSE` for more information.  
 
 ## Live Demo  
-Check out the live demo of QuizMaster [here](https://next-quiz-master.netlify.app/).  
+Check out the live demo of QuizMaster [here](https://next-quiz-master.netlify.app).  
+
+## Contact  
+Your Name - [your.email@example.com](mailto:pythondeveloper92@gmail.com)  
+
+Project Link: [https://github.com/yourusername/quiz-app](https://github.com/Majid-Hassan/next-quiz-master.netlify.app)  
 
 ## FAQ  
 **Q: Can I suggest new topics?**  

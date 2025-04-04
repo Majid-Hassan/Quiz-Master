@@ -1,4 +1,8 @@
 # QuizMaster: Your Ultimate Quiz Experience  
+![image](https://github.com/user-attachments/assets/75820c3e-be38-4ee9-992a-10b53af03869)
+![image](https://github.com/user-attachments/assets/203d15e8-013f-4f58-9ddf-4036245de4a8)
+![image](https://github.com/user-attachments/assets/2fbd0241-0a4d-424a-b702-3b206cf00c30)
+
 Dive into a world of knowledge with QuizMaster, a trivia app covering a variety of topics, from books and science to video games!  
 
 ## Features  
